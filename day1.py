@@ -1,0 +1,5 @@
+print("My name is Vishal Verma")
+print("I am 25 years old")
+print("I live in Jind, Haryana India")
+print("My dream is to become financially free and travel and do everthing that I always wanted to do in my life")
+print("Take the path less traveled and you will find the hidden treasures of life")
