@@ -12,5 +12,5 @@ print("Congratulation on completion of second task")
 task_3 = input("Have you done reading books?: (done/not done)")
 while task_3 != task:
     print("You haven't completed your task, do your task first")
-    task_3 = input("Have you done your third task?: (done/not done)")
+    task_3 = input("Have you done your third task?: (done/not done)").lower()
 print("Congratulations on the completion of third task.")
