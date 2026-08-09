@@ -6,7 +6,7 @@ completed . append("Extract Text")
 completed . append("Summarize")
 completed . append("Save Report")
 print(completed)
-print(len(completed))
+print(len(completed)) #len tells the number of item in the list it count's so the counting start from 1.
 
 completed . remove("Read PDF") #it removes the item by the name we tell it to remove.
 completed . remove("Extract Text")
