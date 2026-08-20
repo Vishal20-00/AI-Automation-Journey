@@ -31,4 +31,8 @@ print(fruits)
 
 #7
 names = ["Aman", "Vishal", "Aman", "Rohit", "Aman"]
-print(names.count("Aman"))
+print(names.count("Aman")) #it counts how many times a particular word comes in list.
+
+#8
+names = ["Aman", "Vishal", "Rohit", "Vishal"]
+print(names.index("Vishal")) #it tells us where the given word is in the list. keeping in the mind that pyton counts the indexes from 0
